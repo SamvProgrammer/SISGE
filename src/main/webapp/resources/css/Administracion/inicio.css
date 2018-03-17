@@ -1,0 +1,170 @@
+.requerido{
+	
+	
+	border-color:red;
+}
+
+#row_two{
+	
+	padding-top: 10px;
+}
+
+.title_add_seg{
+	
+	    font-size: 20px;
+	
+}
+
+.title_seg{
+	
+	    font-size: 25px;
+	
+}
+
+#btn_cancelar_seguimiento{
+    left: 165px;
+    display: none;
+}
+
+#div_add_seg{
+    WIDTH: 74%;
+    position: absolute;
+    top: 24px;
+    left: 256px;
+    display:none;
+	
+}
+#div_consulta_seg{
+	WIDTH: 74%;
+    position: relative;
+    top: 40px;
+    left: 132px;
+    display: none;
+}
+
+#titulo-modulo{
+    position: relative;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(0,102,123);
+    text-align: center;
+    z-index: 1;	
+	
+}
+
+
+.title{
+	
+	color: ivory;
+    font-style: oblique;
+}
+.back{
+	
+	 position: absolute;
+    top: -50px;
+}
+
+
+
+
+.button_enviar{
+	
+	position: absolute;
+    left: 20px;
+	
+}
+
+#div_tabla_usuario{
+	
+    WIDTH: 90%;
+	
+}
+#div_tabla_partido,#div_tabla_motivo,#div_tabla_profesion,#div_tabla_puesto,#div_tabla_municipio,#div_tabla_contacto,#div_tabla_seguimiento{
+	WIDTH: 90%;
+    position: relative;
+    top: 55px;
+}
+#div_tabla_dependencia{
+    WIDTH: 80%;
+    position: relative;
+    top: 55px;
+	
+	
+}
+
+#div_tabla_estado{
+	
+	POSITION: RELATIVE;
+    TOP: 40PX;
+    WIDTH: 90%;
+    
+	
+}
+.td-catalogo{
+	
+	padding:5px;
+	
+}
+
+#menu_principal{
+    position: relative;
+    padding: 50px;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    overflow-x: auto;
+    background-color: #9bbaca;
+
+}
+
+#div_tabla_usuario{
+	
+	position: relative;
+	
+    top: 60px;}
+
+
+#table_usuario{
+	
+	    width: 50%;
+	
+}
+
+.txts_letras{
+	
+	  text-transform: uppercase;
+	
+}
+
+ #admon_usuario  {
+ 
+    height: 208px;
+ 
+    width: 208px;
+ 
+    left: 624px;
+ 
+    opacity: 1;}
+    
+#admon_catalogo {
+	
+	height: 208px;
+ 
+    width: 208px;
+ 
+    left: 624px;
+ 
+    opacity: 1;
+	
+	
+	
+	
+}
+
+#btn_enviar_usuario{
+	
+	position: absolute;
+	
+    left: 0px;
+	
+}

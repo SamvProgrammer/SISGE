@@ -1,0 +1,134 @@
+.back_menu{
+	
+	 position: absolute;
+    top: -44px;
+}
+
+
+.td-dep{
+    padding: 5px;
+}
+
+#menu_principal{
+    position: relative;
+    padding: 50px;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    overflow-x: auto;
+    background-color: #9bbaca;
+
+}
+
+#contentmenuprincipal{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#seccionSeguimiento{
+    position: absolute; 
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/*Seccion de bottom*/
+#seccionbottom{
+    position: absolute;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#section-bottom-help{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.col_bottom{
+    position: absolute;
+    height: 100%;
+    width: 33.3%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/*div de la derecha*/
+#seccionright{
+    position: absolute;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#section-right-help{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.section-right-div{
+    position: absolute;
+    height: 33.3%;
+    box-sizing: border-box;
+}
+
+.section-right-div div{
+    height: 100%;
+    width: 100%;
+    background: rgb(242,241,240);
+}
+
+/*div de la derecha last*/
+#seccionright-last{
+    position: absolute;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#section-right-last-help{
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+#div4{
+    width: 100%;
+    top: 0px;
+    padding-bottom: 7px;
+}
+
+#div5{
+    width: 100%;
+    padding-bottom: 7px;
+    top: 201px;
+    height: 27%;
+}
+
+
+/*Efecto sobre los div que contienen a las imagenes*/
+.div-content-image{
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+    
+    -webkit-transition: all 0.3s ease;
+    -moz-transition:    all 0.3s ease;
+    -o-transition:      all 0.3s ease;
+    -ms-transition:     all 0.3s ease;
+    transition:         all 0.3s ease;
+}
+
+.div-content-image img{
+    height: 100% !important;
+    width: 100% !important;
+}
+
+.div-content-image:hover{
+    -moz-transform: scale(0.99);
+    -ms-transform: scale(0.99);
+    -o-transform: scale(0.99);
+    transform: scale(0.99);
+    opacity: 0.9;
+}
+
+
